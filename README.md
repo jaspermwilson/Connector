@@ -9,9 +9,10 @@ This project implements the nodeGame framework to run an online multiplayer expe
 
 At each stage of the experiment the participants list the options that they considered in chronological order. This allows us to compare the times they spent searching for words to help model the search space.
 
-See Kumar_Connector.pdf to see the paper that motivated this study. For the full motivation and results of this experiment please read the final research paper posted at https://psyarxiv.com/axw8v/. It is currently still in review for publication.
+See Kumar_Connector.pdf to access the paper that motivated this study. For the full motivation and results of this experiment please read the final research paper posted at https://psyarxiv.com/axw8v/. It is currently still in review for publication.
 
 To use this game follow the steps at https://github.com/nodeGame/nodegame/wiki/Getting-Started-v6 and create a new game, replacing its files with this project. 
+
 
 ## License
 
