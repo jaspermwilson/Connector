@@ -1,4 +1,4 @@
-# codenames
+# Connector
 Jasper Wilson <jaspermwilson@gmail.com>
 
 ## Description
